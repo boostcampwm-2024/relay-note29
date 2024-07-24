@@ -9,7 +9,7 @@
 
 24일:
 ![2-1](https://github.com/user-attachments/assets/54cfec65-cc82-48b4-8341-3fe7930155cc)
-![2-2](https://github.com/user-attachments/assets/20bf2225-967d-4c66-bab4-39f1906ef9b1)
+
 ![2-3](https://github.com/user-attachments/assets/77240fdc-80e9-4ea7-ae87-d2ce0e1c4b6a)
 
 -----
