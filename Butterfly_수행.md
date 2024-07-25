@@ -12,6 +12,12 @@
 
 ![2-3](https://github.com/user-attachments/assets/77240fdc-80e9-4ea7-ae87-d2ce0e1c4b6a)
 
+
+25일:
+
+![25](https://github.com/user-attachments/assets/384e75c5-e2d8-42a1-a75e-18c764a86602)
+
+
 -----
 
 2. [J184_이석호] Slack의 아무 질문에 답변 하나 남기기
