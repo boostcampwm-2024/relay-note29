@@ -22,6 +22,15 @@
 
 2. [J184_이석호] Slack의 아무 질문에 답변 하나 남기기
 
+day7 
+![day7](https://gist.github.com/LLagoon3/cea14435ad683c6b3496edaa0f17d6eb/raw/1b48d583466eaaa86e5b7ec376e30371c22edc7d/qe_d7.png)
+
+day8
+![day7](https://gist.github.com/LLagoon3/cea14435ad683c6b3496edaa0f17d6eb/raw/1b48d583466eaaa86e5b7ec376e30371c22edc7d/qe_d8.png)
+
+day9
+![day9](https://gist.github.com/LLagoon3/cea14435ad683c6b3496edaa0f17d6eb/raw/1b48d583466eaaa86e5b7ec376e30371c22edc7d/qe_d9.png)
+
 -----
 
 3. [K001_가빈] 함께 자라기 p.34 더글러스: “우리가 더 잘하는 것을 더 잘하게 될수록 우리는 더 잘하는 걸 더 잘, 그리고 더 빨리 하게 될 것이다”
