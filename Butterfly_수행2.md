@@ -6,6 +6,14 @@
    > 선정 이유:
 2. J063\_김준서
    > 선정 이유: 피어 세션을 통해서만 이야기를 나누면 상대방에 대한 칭찬이 휘발될 수 있다. 그래서 미션마다 좋았던 점을 기록해서 남기고자 했다.
+   ![Day11 릴프 수행 기록1](https://github.com/user-attachments/assets/914064da-eb7e-4bf5-bfef-bef6aa07f624)
+   ![Day11 릴프 수행 기록2](https://github.com/user-attachments/assets/124c3016-15c0-44d7-9aba-445dfb9c7bc2)
+   ![Day11 릴프 수행 기록3](https://github.com/user-attachments/assets/5ec3a8c1-106b-459b-932c-f03168c80a91)
+   ![Day11 릴프 수행 기록4](https://github.com/user-attachments/assets/c3133b3e-b918-4a8c-94b7-6d3bcdfb2dbf)
+   ![Day11 릴프 수행 기록5](https://github.com/user-attachments/assets/0d43062e-bf84-49d6-b4b8-c3b94b612e25)
+   ![Day13 릴프 수행 기록1](https://github.com/user-attachments/assets/dae8fe9f-3e7a-4a6e-b2e2-61af0289bc3f)
+   ![Day13 릴프 수행 기록2](https://github.com/user-attachments/assets/9db166fb-5455-4fdd-a8c4-5874a8dc3572)
+
 3. J237\_조민지
 
    > 선정 이유: 피어 세션 중 피어 컴파일링 시간 내에선 동료의 코드를 집중해서 보고 의도를 분석하기엔 시간이 부족하다고 느꼈다. 그래서 gist로 comment를 남기면서 다시 동료의 학습 저장소를 살펴보고 좋은 포인트는 나에게 흡수하고 싶다는 마음에 해당 퀘스트를 선정하게 되었다.
