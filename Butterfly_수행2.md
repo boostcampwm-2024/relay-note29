@@ -6,6 +6,7 @@
    > 선정 이유:
 2. J063\_김준서
    > 선정 이유: 피어 세션을 통해서만 이야기를 나누면 상대방에 대한 칭찬이 휘발될 수 있다. 그래서 미션마다 좋았던 점을 기록해서 남기고자 했다.
+
    ![Day11 릴프 수행 기록1](https://github.com/user-attachments/assets/914064da-eb7e-4bf5-bfef-bef6aa07f624)
    ![Day11 릴프 수행 기록2](https://github.com/user-attachments/assets/124c3016-15c0-44d7-9aba-445dfb9c7bc2)
    ![Day11 릴프 수행 기록3](https://github.com/user-attachments/assets/5ec3a8c1-106b-459b-932c-f03168c80a91)
